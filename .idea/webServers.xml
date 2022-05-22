@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="120ea940-31cb-4a89-b03e-162ac6d19ace" name="case-study" url="https://case-study.ntechbilisim.com/">
+        <fileTransfer rootFolder="/sites/case-study" host="94.199.200.70" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
